@@ -1,0 +1,7 @@
+.square {
+	position: absolute;
+width: 586px;
+height: 339px;
+
+background: linear-gradient(270deg, rgba(83, 160, 232, 0.88) 11.26%, rgba(255, 255, 255, 0) 91.89%), rgba(78, 188, 102, 0.88);
+}
