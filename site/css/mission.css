@@ -5,7 +5,7 @@
 }
 
 header{
-	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../missionpic.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../missionpic2.jpg);
 	/*background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../1.jpg);
 	/*background-image: linear-gradient(-90deg, red, yellow), url(../1.jpg);*/
 	height: 100vh;
@@ -78,6 +78,7 @@ ul li.active a{
 .content p{
 	color: #fff;
 	font-size: 25px;
+	text-align: center;
 }
 .button{
 	position: absolute;
